@@ -10,5 +10,5 @@ conda install pytorch torchvision torchaudio pytorch-cuda=12.4 -c pytorch -c nvi
 cd nerfacc
 pip install -e .
 cd ../tiny-cuda-nn/bindings/torch
-python setup.py install
+pip install .
 

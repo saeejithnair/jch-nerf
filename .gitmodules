@@ -1,3 +1,6 @@
 [submodule "nerfacc"]
 	path = nerfacc
 	url = git@github.com:saeejithnair/nerfacc.git
+[submodule "tiny-cuda-nn"]
+	path = tiny-cuda-nn
+	url = git@github.com:saeejithnair/tiny-cuda-nn.git
